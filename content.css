@@ -10,10 +10,23 @@ body {
 footer {
     background-color: #87ceeb;
     width: 100%;
-    text-align: center;
+    text-align: left;
     position: fixed;
     left: 0;
     bottom: 0;
-    font-size: 10px;
+    font-size: 14px;
 }
 
+.sep {
+    color: black;
+    background-color: #87ceeb;
+    font-size: 14px;
+}
+
+#name {
+    background-color: white;
+    border: solid;
+    text-align: justify;
+    margin-left: 10%;
+    padding: 10px;
+}
