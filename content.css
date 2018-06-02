@@ -5,6 +5,7 @@ body {
     font-family: "Courier";
     font-size: 16px;
     color: black;
+    margin-bottom: 100px;
 }
 
 footer {
@@ -24,11 +25,11 @@ footer {
     font-size: 14px;
 }
 
-#name {
+.name {
     background-color: white;
     border: solid;
-    text-align: left;
+    text-align: center;
     margin-left: 5%;
-    margin-right: 90%;
+    margin-right: 5%;
     padding: 10px;
 }
