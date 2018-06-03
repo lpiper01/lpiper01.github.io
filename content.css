@@ -33,3 +33,7 @@ footer {
     margin-right: 5%;
     padding: 10px;
 }
+
+.image {
+    object-fit: contain;
+}
