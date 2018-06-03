@@ -28,6 +28,8 @@ footer {
 .name {
     background-color: white;
     border: solid;
+    width: auto;
+    height: 100px;
     text-align: center;
     margin-left: 5%;
     margin-right: 5%;
