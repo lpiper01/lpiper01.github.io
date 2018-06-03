@@ -1,6 +1,6 @@
 ========== Correctly Implemented ==========
 
-None, as of yet
+To my knowledge, all requirements have been met.
 
 ==========     Collaboration     ==========
 
@@ -8,4 +8,4 @@ None
 
 ==========      Hours Spent      ==========
 
-__ hours spent
+~5 hours spent
