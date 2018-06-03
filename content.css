@@ -30,7 +30,7 @@ footer {
     border: solid;
     width: auto;
     height: 100px;
-    text-align: center;
+    text-align: left;
     margin-left: 5%;
     margin-right: 5%;
     padding: 10px;
@@ -38,7 +38,7 @@ footer {
 
 .image {
     object-fit: scale-down;
-    width: 100%;
-    height: 100%;
-    align: left;
+    width: 25%;
+    height: 25%;
+    align: right;
 }
